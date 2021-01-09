@@ -1,0 +1,62 @@
+.about__desc h2 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 44px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.about__desc {
+    width: 100%;
+}
+
+.about__desc p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.2);
+}
+
+.about__desc h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.about__desc h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #90AEFA;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:676px) {
+    .aboutbodyrow {
+        flex-direction: column-reverse;
+    }
+    .about__desc h2 {
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .about__desc h3 {
+        display: none;
+    }
+    .about__desc h4 {
+        display: none;
+    }
+    .about__desc p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+}

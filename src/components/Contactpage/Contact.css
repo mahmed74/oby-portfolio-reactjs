@@ -1,0 +1,47 @@
+.body__contact {
+    height: 55vh;
+    /* border: 2px solid green; */
+    padding: 1rem;
+    margin-top: 5rem;
+}
+
+.body__contact h1 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #151414;
+}
+
+.body__contact h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: rgba(121, 114, 114, 0.6);
+    width: 849px;
+    margin: auto;
+}
+
+@media only screen and (max-width: 676px) {
+    .body__contact h1 {
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .body__contact h4 {
+        font-size: 24px;
+        line-height: 29px;
+        width: 335px;
+    }
+    .selectedwork h4 {
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .body__contact {
+        height: fit-content;
+    }
+}

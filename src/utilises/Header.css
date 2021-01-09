@@ -1,0 +1,127 @@
+        body {
+            overflow-x: hidden;
+            width: 103%;
+        }
+        
+        ul li {
+            list-style: none;
+        }
+        
+        #logo {
+            width: 33%;
+            margin: 1rem;
+        }
+        
+        .myNav {
+            /* border: 2px solid red; */
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }
+        
+        #logo {
+            width: 70%;
+        }
+        
+        nav ul {
+            display: flex;
+            margin-right: 2rem;
+            /* border: 2px solid black; */
+            width: 40vw;
+            /* display: none; */
+        }
+        
+        li {
+            margin: 1.5rem 2rem;
+            font-family: Product Sans;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 22px;
+            /* identical to box height */
+            color: #FFFFFF;
+            /* display: none; */
+        }
+        
+        @media only screen and (max-width: 676px) {
+            #logo {
+                width: 39px;
+                height: 53px;
+            }
+            .myNav .navMenu {
+                width: 100rem;
+                display: flex;
+                flex-direction: column;
+                display: none;
+            }
+            .navMenu {
+                /* display: none; */
+            }
+            li {
+                color: black;
+            }
+            /* .problemsection__1 {
+        width: 268px;
+    } */
+            .logo {}
+            /* .checkbtn {
+        display: block;
+    } */
+            .purpleBox {
+                width: 130%;
+            }
+            /* .userinsitghtsMain {
+        width: 131%;
+        text-align: center;
+    } */
+            .borocolliPage {
+                width: 130%;
+            }
+            .card__insight,
+            .paperpic {
+                margin-left: 3rem;
+            }
+            .ellipse__1 p {
+                width: 150%;
+                padding-left: 2rem;
+            }
+            .avatarDiv img {
+                width: 200%;
+            }
+            .avatarDiv {
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+            }
+            .avatarDiv2 {
+                display: flex;
+                align-items: center;
+                justify-content: space-around;
+            }
+            .avatarDiv2 img {
+                width: 160%;
+                margin-left: 1.35rem;
+            }
+            .ellipse__2 p {
+                width: 150%;
+                padding-left: 2rem;
+            }
+            .userinsight__h3 h3 {
+                font-size: 21px;
+                line-height: 25px;
+            }
+            .userinsight__h3 p {
+                font-size: 16px;
+                line-height: 20px;
+            }
+            .nextprojecttext {
+                margin-left: 21%;
+            }
+            .navuls {
+                margin: auto !important;
+            }
+            .nav-link {
+                font-size: 1.4rem;
+            }
+        }

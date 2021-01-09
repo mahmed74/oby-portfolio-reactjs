@@ -1,0 +1,649 @@
+.borocolliPage2 {
+    background: rgba(251, 200, 155, 0.5);
+    padding: 1rem;
+    padding-bottom: 2rem;
+    /* border: 2px solid red; */
+    /* width: 120%; */
+    /* width: 130%; */
+}
+
+.imgDiv img {
+    width: 268px;
+    /* width: 140%; */
+    height: 306px;
+}
+
+.imgDiv {
+    text-align: center;
+    margin: auto;
+    /* width: 140%; */
+    /* border: 2px solid yellow; */
+}
+
+.timeLineSection {
+    width: 100%;
+    /* display: flex; */
+    margin-top: 1rem;
+}
+
+.timeline__right {
+    /* width: 50%; */
+}
+
+.timeline__right p,
+.spanTimeline2 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 50px;
+    /* or 222% */
+    color: rgba(0, 0, 0, 0.8);
+    /* width: 600px; */
+    margin-left: 1rem;
+}
+
+.spanTimeline2 {
+    background: rgba(251, 200, 155, 0.5);
+    ;
+}
+
+.timeline__left {
+    border-left: 2px solid gray;
+    padding-left: 2rem;
+}
+
+.timeline__left h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.47);
+}
+
+.timeline__left p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.problemsSection {
+    margin: 1rem 1.4rem;
+    padding: 0.75rem;
+    /* width: 850px; */
+}
+
+.problemsSection .problemsection__1 {
+    padding: 0.75rem;
+    /* width: 850px; */
+}
+
+.problemsection__1 h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.problemsection__1 p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 38px;
+    /* or 158% */
+    color: rgba(0, 0, 0, 0.4);
+    /* width: 850px; */
+}
+
+.problemsection__2 {
+    /* padding: 1rem;
+    margin: 1rem; */
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+
+
+/* .ellipse__1 {
+    width: 50%;
+    text-align: center;
+} */
+
+
+/* 
+.ellipse__2 {
+    width: 50%;
+    text-align: center;
+} */
+
+.ellipse__1 p,
+.ellipse__2 p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 25px;
+    /* width: 300px; */
+    margin: auto;
+    color: rgba(0, 0, 0, 0.4);
+    padding-top: 1rem;
+}
+
+.problemsection__3 h3,
+.problemsection__2h2 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.userinsitghtsMain {
+    width: 100%;
+    /* text-align: center; */
+}
+
+.userinsight__h3 h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.userinsight__h3 h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.card__insight_pink {
+    background: rgba(251, 200, 155, 0.5);
+    border-radius: 28px;
+    height: 40rem;
+    width: 100%;
+}
+
+.cardText_pink p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 37px;
+    /* or 206% */
+    color: #000;
+    padding: 1.4rem;
+}
+
+.AvatarClass {
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.primaryConernP p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+}
+
+.primarybox p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 2rem;
+}
+
+.virtualenvpara2 h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    color: #5881EA;
+}
+
+.sol05sectiontext h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.sol05sectiontext p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 38px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+
+/* .purpleBox {
+    background: #7021FF;
+    height: 5rem;
+
+padding: 4rem;
+
+}
+*/
+
+.purpleBox p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    letter-spacing: 0.02em;
+    color: #95F4C9;
+}
+
+.sketch h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.sketch p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 38px;
+    /* identical to box height, or 158% */
+    letter-spacing: 0.02em;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.anothertext h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 38px;
+    /* or 158% */
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.thirdrowpara h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.thirdrowpara p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 38px;
+    /* or 158% */
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.customerjourneypara p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.features__h3 h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.row2__feature h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.row2__feature p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.emojirowpara {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    color: #7021FF;
+}
+
+.thirdrowpara h3 {}
+
+.thirdrowpara p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.proto-text h2 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    /* or 156% */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.paratext1 h2 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.paratext1p {
+    /* width: 850px; */
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 38px;
+    /* or 158% */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.spanlineend {
+    /* width: 977px; */
+    width: 130%;
+    height: 0px;
+    border: 1px solid #000000;
+    background: #E5E5E5;
+}
+
+.nextprojecttext {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.1em;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+}
+
+.userpersonatext h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.userpersonatext p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.creditstexth3 h3 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.8)
+}
+
+.creditsname h4 {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 38px;
+    /* identical to box height, or 106% */
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.creditsname p {
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 38px;
+    /* identical to box height, or 211% */
+    color: rgba(0, 0, 0, 0.2);
+}
+
+Link:hover {
+    text-decoration: none !important;
+}
+
+.papertest {
+    margin-left: -13.5rem !important;
+}
+
+.papertestchallenge {
+    margin-left: -11rem !important;
+}
+
+.testbtn5 {
+    margin-left: -1.5rem !important;
+}
+
+@media only screen and (max-width: 676px) {
+    .proto-text h2 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .thirdrowpara {
+        margin-left: 1.5rem;
+    }
+    .customerjourneypara p {
+        font-size: 21px;
+        line-height: 25px;
+        text-align: center;
+        margin: 1.3rem 2rem;
+    }
+    .emojisrow {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        padding-left: 2rem;
+    }
+    .emojirowpara {
+        font-family: Product Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 20px;
+        color: #7021FF;
+        margin-left: 1.2rem;
+    }
+    .userinsight__h3 h4 {
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: 0.02em;
+    }
+    .userinsight__h3 h3 {
+        font-size: 21px;
+        line-height: 25px;
+        letter-spacing: 0.02em;
+    }
+    .userinsight__h3 {
+        margin-left: 2rem;
+    }
+    .virtualenvpara2 h4 {
+        font-family: Product Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 19px;
+        line-height: 23px;
+    }
+    .purpleBox p {
+        font-size: 18px;
+        line-height: 22px;
+        letter-spacing: 0.02em;
+    }
+    .sketch h4 {
+        font-size: 21px;
+        line-height: 25px;
+        letter-spacing: 0.02em;
+    }
+    .sketch p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .anothertext h3 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .thirdrowpara p {
+        font-size: 16px;
+        line-height: 22px
+    }
+    .features__h3 h3 {
+        font-size: 21px;
+        line-height: 25px;
+        letter-spacing: 0.02em;
+    }
+    .row2__feature h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .thirdrowpara h3 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .problemsection__3 h3 {
+        font-size: 23px;
+        line-height: 31px;
+    }
+}
+
+
+/* responsiveness */
+
+@media only screen and (max-width:676px) {
+    .borocolliPage2 {
+        width: 130%;
+    }
+    .card__insight_pink,
+    .paperpic {
+        margin-left: 3rem;
+    }
+    .ellipse__1 p {
+        width: 150%;
+        padding-left: 2rem;
+    }
+    .avatarDiv img {
+        width: 200%;
+    }
+    .avatarDiv {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .avatarDiv2 {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .avatarDiv2 img {
+        width: 160%;
+        margin-left: 1.35rem;
+    }
+    .ellipse__2 p {
+        width: 150%;
+        padding-left: 2rem;
+    }
+    .userinsight__h3 h3 {
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .userinsight__h3 p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .nextprojecttext {
+        margin-left: 21%;
+    }
+    .userpersonatext h3 {
+        font-size: 30px;
+        line-height: 29px;
+    }
+    .userpersonatext p {
+        font-size: 29px;
+        line-height: 38px;
+    }
+    .sol05sectiontext h3 {
+        font-size: 25px;
+        line-height: 39px;
+        /* text-align: center; */
+        margin-left: 1rem;
+    }
+    .sol05sectiontext p {
+        font-size: 19px;
+        line-height: 31px;
+        margin-left: 1rem;
+    }
+    .creditstexth3 h3 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .creditsname h4 {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
